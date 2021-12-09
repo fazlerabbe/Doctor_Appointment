@@ -46,7 +46,7 @@
 
         <hr>
 
-        <p id="copyright">Copyright &copy; 2020 <a href="https://macodeid.com/" target="_blank">MACode ID</a>. All
+        <p id="copyright">fazle &copy; 2021 <a href="https://macodeid.com/" target="_blank">MACode ID</a>. All
             right reserved</p>
     </div>
 </footer>
